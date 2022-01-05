@@ -1,5 +1,5 @@
 {
-  "name": "demo6_vue",
+  "name": "three_vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "three": "^0.136.0",
+    "three-obj-mtl-loader": "^1.0.3",
+    "three-orbit-controls": "^82.1.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
